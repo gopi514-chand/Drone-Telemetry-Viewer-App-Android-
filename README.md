@@ -77,8 +77,9 @@ This project is designed as a **learning + demonstration project** for:
 
 ---
 ## 🧱 Architecture
-High level architecture
-Presentation (UI)
+**High level architecture**
+
+**Presentation (UI)
 │
 ├── ViewModel (StateFlow)
 │
@@ -89,10 +90,11 @@ Domain (Business Logic)
 Data (Telemetry Source)
 │
 ├── MAVLink Client (UDP / TCP)
-├── Repositories
+├── Repositories**
 
-project Structure
-com.example.dronetelemetry
+**project Structure**
+
+**com.example.dronetelemetry
 │
 ├── data
 │   ├── mavlink
@@ -123,7 +125,9 @@ com.example.dronetelemetry
 ├── di
 │   └── AppModule.kt
 │
-└── MainActivity.kt7
+└── MainActivity.kt7**
+
+
 2️⃣ Open in Android Studio
 Android Studio Giraffe or newer recommended
 Sync Gradle files
@@ -166,4 +170,4 @@ Network resilience handling
 
 This project is open-source and intended for educational purposes.
 
-## 🧱 Architecture
+
